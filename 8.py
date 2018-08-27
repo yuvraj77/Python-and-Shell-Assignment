@@ -1,0 +1,1 @@
+mylist=['(carrot,banana)','(tomoto,apple)']
